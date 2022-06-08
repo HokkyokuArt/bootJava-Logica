@@ -1,4 +1,4 @@
-package condicional;
+package exerciciosAula2;
 
 import java.util.Scanner;
 
